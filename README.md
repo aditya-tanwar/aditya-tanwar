@@ -1,4 +1,4 @@
-### Hi there I am [ADITYA] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### Hi there I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <br/>
 
 
