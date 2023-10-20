@@ -12,7 +12,7 @@ I am a Devops magician. Passionate about helping people get into cloud and shari
 
 ---
 
-### Languages and tools ⚙️
+### My Knowledge Stack ⚙️
 
 <p>
 
