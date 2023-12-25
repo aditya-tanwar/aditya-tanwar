@@ -1,4 +1,4 @@
-### Hi there I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### Hi there, I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <br/>
 
 - 🔭 I’m currently working on [Apache Apisix Gateway](https://apisix.apache.org/)
@@ -55,4 +55,3 @@ I am a Devops magician. Passionate about helping people get into cloud and shari
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=aditya-tanwar&label=Profile%20views&color=blueviolet&style=flat" alt="aditya-tanwar" /> 
 </p>
-
