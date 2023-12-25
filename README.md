@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/aditya-tanwar)
 
-- 💬 Ask me about **DevOps & Cloud**
-
 - 📫 How to reach me **aaditanwar0@gmail.com**
 
 ---
