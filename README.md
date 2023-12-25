@@ -1,10 +1,21 @@
 ### Hi there I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <br/>
 
+- 🔭 I’m currently working on [Apache Apisix Gateway](https://apisix.apache.org/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tanwar-92a291235/)
+- 🌱 I’m currently exploring **DevSecOps & Cloud**
 
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/aditya-tanwar)
 
+- 💬 Ask me about **DevOps & Cloud**
+
+- 📫 How to reach me **aaditanwar0@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-tanwar-92a291235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-tanwar" height="30" width="40" /></a>
 
 ---
 
@@ -42,4 +53,6 @@ I am a Devops magician. Passionate about helping people get into cloud and shari
 </p>
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-tanwar" /> </p>
 
