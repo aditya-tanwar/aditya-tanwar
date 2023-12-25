@@ -52,6 +52,10 @@ I am a Devops magician. Passionate about helping people get into cloud and shari
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-tanwar&label=Profile%20views&color=blueviolet&style=flat" alt="aditya-tanwar" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=aditya-tanwar&label=Profile%20views&color=blueviolet&style=flat" alt="aditya-tanwar" /> 
+</p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=aditya-tanwar&show_icons=true alt=aditya-tanwar /> </p>
+<p align="left"> 
+<img src=https://github-readme-stats.vercel.app/api?username=aditya-tanwar&show_icons=true alt=aditya-tanwar />
+</p>
