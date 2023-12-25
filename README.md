@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Apache Apisix Gateway](https://apisix.apache.org/)
 
-- 🌱 I’m currently exploring **DevSecOps & Cloud**
+- 🌱 I’m currently exploring **DevOps & Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/aditya-tanwar)
 
