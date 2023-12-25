@@ -1,4 +1,4 @@
-### Hi there, I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### Hi there I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <br/>
 
 - 🔭 I’m currently working on [Apache Apisix Gateway](https://apisix.apache.org/)
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-tanwar-92a291235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-tanwar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-tanwar-92a291235/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="aditya-tanwar" height="50" width="50" /></a>
 
 ---
 
@@ -54,3 +54,4 @@ I am a Devops magician. Passionate about helping people get into cloud and shari
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-tanwar&label=Profile%20views&color=blueviolet&style=flat" alt="aditya-tanwar" /> </p>
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=aditya-tanwar&show_icons=true alt=aditya-tanwar /> </p>
