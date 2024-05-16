@@ -17,7 +17,7 @@
 
 ---
 
-I am a Devops magician. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now Platform Solutions.
+I am a Devops enthusiast. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now Platform Solutions.
 
 ---
 
