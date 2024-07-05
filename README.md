@@ -1,7 +1,7 @@
 ### Hi there, I am ADITYA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <br/>
 
-- 🔭 I’m currently working on [Trino Cluster](https://trino.io/)
+- 🔭 I’m currently working on Rancher Deployment on BareMetal using IAC
 
 - 🌱 I’m currently exploring **DevOps & Cloud**
 
